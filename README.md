@@ -11,8 +11,11 @@ A user can click on the map and get the coordinates of this location easily.
 
 # How to run
 
+- Create a TomTom developer account and get an API key (it is free),
 - `git clone git@github.com:necmigunduz/TomTomMap.git`,
 - `cd TomTomMap`,
+- Create a .env folder in the root folder,
+- Enter the TomTom API key into the .env as follows: `REACT_APP_TT=<API-KEY>`,
 - `npm install`,
 - `npm start`.
 
