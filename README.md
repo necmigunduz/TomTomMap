@@ -1,6 +1,7 @@
 # TomTom Map
 
 A user can click on the map and get the coordinates of this location easily.
+![Photo](https://github.com/necmigunduz/smart-map/blob/master/assets/s1.jpeg)
 
 # Technologies Used
 
@@ -9,6 +10,7 @@ A user can click on the map and get the coordinates of this location easily.
 - JavaScript.
 
 # How to run
+
 - `git clone git@github.com:necmigunduz/TomTomMap.git`,
 - `cd TomTomMap`,
 - `npm install`,
