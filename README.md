@@ -1,7 +1,7 @@
 # TomTom Map
 
 A user can click on the map and get the coordinates of this location easily.
-![Photo](https://github.com/necmigunduz/smart-map/blob/master/assets/s1.jpeg)
+![Photo](https://github.com/necmigunduz/TomTomMap/blob/master/assets/tomtom.png)
 
 # Technologies Used
 
